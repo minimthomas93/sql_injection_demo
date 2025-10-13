@@ -137,3 +137,14 @@ If we have to display username and password together,
 Login with the username and password
 <img width="901" height="338" alt="image" src="https://github.com/user-attachments/assets/e3b7d393-8dde-4be9-b48d-5da6efafb5aa" />
 
+#### Other Labs
+The above lab is just a demo, similiarly I have,
+- solved 10+ SQL injection challenges
+- Retrieved hidden data and bypassed admin logins
+- Extracted 20-character administrator password
+- Performed blind SQL injection with conditional responses and conditional errors
+- Performed Union attacks
+
+<img width="1280" height="1706" alt="image" src="https://github.com/user-attachments/assets/f601b3cd-ce2d-4c99-b5ed-c07b48d31dbf" />
+
+
