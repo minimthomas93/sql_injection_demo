@@ -1,7 +1,7 @@
 # SQL Injection Demo
 **Lab** : SQL injection attack, retrieve administrator password
 ## Goal
-This lab contains a website with a SQL injection vulnerability in the product category filter.  
+This lab (in Portswigger) contains a website with a SQL injection vulnerability in the product category filter.  
 The task is to:
 - Perform a SQL injection attack to retrieve all usernames and passwords.
 - Use the information to log in as the administrator user.
